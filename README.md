@@ -6,7 +6,7 @@
 - 檢視餐廳詳細資訊包含類別、地址、電話、評分、圖片
 
 ## 專案畫面
-![image](https://github.com/penuts27/restaurant/main/public/img/screenshot.png)
+![image](https://github.com/penuts27/restaurant/raw/main/public/img/screenshot.png)
 
 ### 安裝
 1.開啟終端機(Terminal)，Clone 此專案至本機電腦
