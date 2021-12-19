@@ -11,7 +11,7 @@
 ### 安裝
 1.開啟終端機(Terminal)，Clone 此專案至本機電腦
 ```
-git colone http://github.com/penuts27/restaurant.git
+git clone http://github.com/penuts27/restaurant.git
 ```
 2.進入本機專案資料夾
 ```
@@ -24,4 +24,5 @@ npm install
 4.執行程式
 ```
 npm run start
+進入瀏覽器預設網址 localhost:3000
 ```
